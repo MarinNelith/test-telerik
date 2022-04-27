@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQbrZLtnerUUSIEM7i5fVZCz6jqca9HpxwYVranlmPrYYhB1pRXLFsxoSg9XGGYNZGA05I/SeIPPp+ma69FYfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marin\\source\\repos\\test telerik\\test telerik\\test_telerik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.componentmodel.composition\\4.7.0\\system.componentmodel.composition.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\ui.for.winforms.allcontrols.net60.trial\\2022.1.222\\ui.for.winforms.allcontrols.net60.trial.2022.1.222.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\unofficial.microsoft.mshtml.netstandard\\7.0.3300\\unofficial.microsoft.mshtml.netstandard.7.0.3300.nupkg.sha512"
+  ],
+  "logs": []
+}
